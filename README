@@ -1,0 +1,9 @@
+Le jeu consiste à manipuler un robot à l’aide d’un clavier entre deux rangées. Le robot doit se déplacer à la zone 1 et vérifie la forme de l’objet déposé. Si c’est un cercle, le robot va le transporter vers la zone 2, sinon l’objet va garder sa place. 
+
+
+
+
+Pour executer le programme(SOUS LINUX):
+	-$make         //pour compiler le programme grace au Makefile
+	-$./main       //pour afficher le programme 
+	-$make clean   //pour effacer les fichiers objets
